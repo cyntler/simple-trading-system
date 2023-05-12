@@ -13,7 +13,7 @@ cd binaries
 ./server-linux # for Linux
 ```
 
-### Source Code / Development
+## Source Code / Development
 
 The project was created in TypeScript technology and works in the Node.js environment.
 
